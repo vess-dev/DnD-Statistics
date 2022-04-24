@@ -7,6 +7,8 @@ Data Mining final project.
 
 Note: The test set (unseen data) was 10% of the data set.
 
+This may be adjusted in train_test_split().
+
 # Requirements
 
 Python 3, numpy, pandas, scikit (sklearn)
