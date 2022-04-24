@@ -1,7 +1,9 @@
 # DnD-Statistics
 Throw 4 machine learning models at DnD creature statblocks. Just to see if there are any correlations...
 
-My final project for my Data Mining class.
+The models used are KNeighbors, RandomForest, SGD, and the SVC classifiers.
+
+A final project for a Data Mining class.
 
 Note: The test set (unseen data) was 10% of the data set. This may be adjusted in train_test_split().
 
