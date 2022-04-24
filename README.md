@@ -9,6 +9,10 @@ Data Mining final project.
 
 Python 3, numpy, pandas, scikit (sklearn)
 
+# Credit
+
+Dataset: https://www.kaggle.com/datasets/travistyler/dnd-5e-monster-manual-stats
+
 # Results
 
 ```
