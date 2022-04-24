@@ -3,7 +3,7 @@ Throw 4 machine learning models at DnD creature statblocks. Just to see if there
 
 The models used are KNeighbors, RandomForest, SGD, and the SVC classifiers.
 
-A final soft VotingClassifier is made from the previous 3 best classifiers.
+A final soft VotingClassifier is made from the 3 best classifiers.
 
 The final project for a Data Mining class.
 
