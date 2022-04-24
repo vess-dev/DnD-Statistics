@@ -1,13 +1,9 @@
 # DnD-Statistics
-Throw 4 machine learning models at DnD creature statblocks.
+Throw 4 machine learning models at DnD creature statblocks. Just to see if there are any correlations...
 
-Just to see if there are any correlations...
+My final project for my Data Mining class.
 
-Data Mining final project.
-
-Note: The test set (unseen data) was 10% of the data set.
-
-This may be adjusted in train_test_split().
+Note: The test set (unseen data) was 10% of the data set. This may be adjusted in train_test_split().
 
 # Requirements
 
